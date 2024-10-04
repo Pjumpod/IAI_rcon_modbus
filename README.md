@@ -78,7 +78,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-For any questions or feedback, please open an issue or contact [seonghun.choe](mailto:seonghun.choe@tomomi-research.com).
+For any questions or feedback, please open an issue or contact [JumpodP](mailto:pjumpod@gmail.com).
 
 
 
